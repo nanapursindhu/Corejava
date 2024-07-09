@@ -8,6 +8,6 @@ Student s2=new Student(2,"abhi");
 Student s3= new Student(3,"dattha");
 s1.display();
 s2.display();
-s3.display();
+s3.display(); 
 }
 }
