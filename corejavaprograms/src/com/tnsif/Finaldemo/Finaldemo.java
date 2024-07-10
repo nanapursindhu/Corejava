@@ -3,7 +3,7 @@ package com.tnsif.Finaldemo;
 public class Finaldemo {
 final int x=10;
 static final int y;
-final void change() {
+ void change() {
 	System.out.println("default");
 }
 static {

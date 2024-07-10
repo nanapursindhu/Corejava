@@ -17,7 +17,6 @@ public class Demo implements Childinterface{
 		d.show();
 		d.print();
 	}
-		
 	}
 		
 
